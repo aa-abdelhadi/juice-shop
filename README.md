@@ -35,7 +35,7 @@ applications!
 For a detailed introduction, full list of features and architecture overview please visit the official project page:
 <https://owasp-juice.shop>
 
-## Table of contents
+## Table of contentsAAA
 
 - [Setup](#setup)
     - [Deploy on Heroku (free ($0/month) dyno)](#deploy-on-heroku-free-0month-dyno)
